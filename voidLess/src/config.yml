@@ -1,0 +1,13 @@
+world0:
+   #World To Save Players From Void (WORLD NAME BUKKIT)
+   world: "world"
+   #SPAWN X COORDS
+   x: 0
+   #SPAWN Y COORDS
+   y: 70
+   #SPAWN Z COORDS
+   z: 0
+   #if run cmd is filled COORD tp will no longer be valid
+   runCmd: "spawn"
+   message: "&4&lWhat are you doing?"
+#IF MULITPLE WORLDS FOLLOW ABOVE TEMPLATE ADD NUMBER TO "world0" ex. "world1"
